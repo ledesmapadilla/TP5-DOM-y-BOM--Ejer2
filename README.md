@@ -5,7 +5,7 @@
 En este repositorio vamos a resolver el primer ejercicio para practicar DOM y BOM
 # 🎇 Demo del proyecto.
 
-Para poder ver el proyecto, entrá 👉 [Aqui]
+Para poder ver el proyecto, entrá 👉 [Aqui] https://tp5-ejercicio2-ignaciolp.netlify.app/
 
 # 💡Tecnologias utilizadas:
 
